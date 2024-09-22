@@ -3,8 +3,8 @@ using namespace std;
 int main()
 {
     cout << "*******Know your Grade by marks******";
-    bool isCorectMarks = false; //flag to check condition
-    while (isCorectMarks != true)  //check if flag not true
+    bool isCorectMarks = false;   // flag to check condition
+    while (isCorectMarks != true) // check if flag not true
     {
         cout << "\nPlease Enter you marks:";
         int n;
